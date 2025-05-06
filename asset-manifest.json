@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/harshitha-marty/chat-app/static/css/main.24b5649f.css",
+    "main.js": "/harshitha-marty/chat-app/static/js/main.e4ffe824.js",
+    "static/js/453.1f4fc30a.chunk.js": "/harshitha-marty/chat-app/static/js/453.1f4fc30a.chunk.js",
+    "index.html": "/harshitha-marty/chat-app/index.html",
+    "main.24b5649f.css.map": "/harshitha-marty/chat-app/static/css/main.24b5649f.css.map",
+    "main.e4ffe824.js.map": "/harshitha-marty/chat-app/static/js/main.e4ffe824.js.map",
+    "453.1f4fc30a.chunk.js.map": "/harshitha-marty/chat-app/static/js/453.1f4fc30a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.24b5649f.css",
+    "static/js/main.e4ffe824.js"
+  ]
+}
